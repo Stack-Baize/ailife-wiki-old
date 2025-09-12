@@ -12,15 +12,15 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wiki.zthxxx.me
+url: https://wiki.ailife.cc
 root: /
 permalink: wiki/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
-tag_dir: tags
+public_dir: 公共
+tag_dir: 标签
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
@@ -124,5 +124,5 @@ theme: Wikitten
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:zthxxx/Wiki-site.git
+  repository: git@github.com:Stack-Baize/wiki-ailife.git
   branch: gh-pages
