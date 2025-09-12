@@ -113,9 +113,9 @@ sitemap:
 nofollow:
   enable: true
   exclude:
-    - zthxxx.me
-    - blog.zthxxx.me
-    - wiki.zthxxx.me
+    - ailife.cc
+    - nav.aisk.cc
+    - wiki.ailife.cc
 
 ## Themes: https://hexo.io/themes/
 theme: Wikitten
